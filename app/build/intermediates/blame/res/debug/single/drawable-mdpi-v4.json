@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\buttonsonon.png",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\drawable-mdpi\\buttonsonon.png"
+    },
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tible.png",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\drawable-mdpi\\tible.png"
+    },
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\buttonsoffoff.png",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\drawable-mdpi\\buttonsoffoff.png"
+    },
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\buttonsonoff.png",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\drawable-mdpi\\buttonsonoff.png"
+    },
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ti_stk_2c_pos_rgb_png.png",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\drawable-mdpi\\ti_stk_2c_pos_rgb_png.png"
+    },
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\buttonsoffon.png",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\drawable-mdpi\\buttonsoffon.png"
+    }
+]

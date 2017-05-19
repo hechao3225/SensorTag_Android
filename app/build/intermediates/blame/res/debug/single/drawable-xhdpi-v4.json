@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sensortag.png",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\drawable-xhdpi\\sensortag.png"
+    },
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\temperature.png",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\drawable-xhdpi\\temperature.png"
+    },
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\barometer.png",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\drawable-xhdpi\\barometer.png"
+    },
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\irtemperature.png",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\drawable-xhdpi\\irtemperature.png"
+    },
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\accelerometer.png",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\drawable-xhdpi\\accelerometer.png"
+    },
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sensortag_magnetometer.png",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\drawable-xhdpi\\sensortag_magnetometer.png"
+    },
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\humidity.png",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\drawable-xhdpi\\humidity.png"
+    },
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sensortag_simplekeys.png",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\drawable-xhdpi\\sensortag_simplekeys.png"
+    },
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\unknown.png",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\drawable-xhdpi\\unknown.png"
+    },
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gyroscope.png",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\drawable-xhdpi\\gyroscope.png"
+    }
+]

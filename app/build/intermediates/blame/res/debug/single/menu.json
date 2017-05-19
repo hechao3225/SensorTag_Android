@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_activity_actions.xml",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\menu\\main_activity_actions.xml"
+    },
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\menu\\device_activity_actions.xml",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\menu\\device_activity_actions.xml"
+    }
+]

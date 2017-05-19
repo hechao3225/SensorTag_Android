@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preference_headers.xml",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\xml\\preference_headers.xml"
+    },
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\xml\\list_gradient.xml",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\xml\\list_gradient.xml"
+    },
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\xml\\gatt_uuid.xml",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\xml\\gatt_uuid.xml"
+    },
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\xml\\popup.xml",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\xml\\popup.xml"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_help.xml",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\layout\\fragment_help.xml"
+    },
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_scan.xml",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\layout\\fragment_scan.xml"
+    },
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_file.xml",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\layout\\activity_file.xml"
+    },
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\layout\\element_device.xml",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\layout\\element_device.xml"
+    },
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\layout\\element_characteristic.xml",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\layout\\element_characteristic.xml"
+    },
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\layout\\element_file.xml",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\layout\\element_file.xml"
+    },
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fwupdate.xml",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\layout\\activity_fwupdate.xml"
+    },
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\layout\\services_browser.xml",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\layout\\services_browser.xml"
+    },
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pager.xml",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\layout\\fragment_pager.xml"
+    },
+    {
+        "merged": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_about.xml",
+        "source": "F:\\MyWork\\projects\\SensorTag_Android_Source_1_1_01\\app\\src\\main\\res\\layout\\dialog_about.xml"
+    }
+]

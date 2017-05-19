@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="22"
+    density="xhdpi"
+    format="7"
+    timestamp="8786800936970" >
+
+    <task
+        name="javac"
+        duration="4102" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="827" />
+    <task
+        name="verifier"
+        duration="156" />
+
+    <artifact
+        location="F:\MyWork\projects\SensorTag_Android_Source_1_1_01\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="8786800936970" >
+        <artifact
+            location="F:\MyWork\projects\SensorTag_Android_Source_1_1_01\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\MyWork\Android\AndroidSDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="F:\MyWork\projects\SensorTag_Android_Source_1_1_01\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_0399af097e456a5aca904ede43a98fd243a9b7ae\classes.dex" />
+    </item>
+    <item
+        jar="F:\MyWork\projects\SensorTag_Android_Source_1_1_01\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5a4266c7ed24d5e31da85af200b03093920de81e">
+        <dex dex="F:\MyWork\projects\SensorTag_Android_Source_1_1_01\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1cb7284f420cc14e8c5508799f87cadd0754c904\classes.dex" />
+    </item>
+    <item
+        jar="F:\MyWork\projects\SensorTag_Android_Source_1_1_01\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dad0e666884fea884f94df8253a326548ce9f8a6">
+        <dex dex="F:\MyWork\projects\SensorTag_Android_Source_1_1_01\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3e2abd8232f131a25c778b92f34baa41eb94d486\classes.dex" />
+    </item>
+
+</items>
